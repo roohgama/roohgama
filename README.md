@@ -24,17 +24,21 @@ Currently developing practical skills in **Power BI, DAX, SQL, Data Modeling, Ex
 
 ## ◫ Current Focus
 
-**▣ Business Intelligence**
-Power BI • DAX • Dashboards • KPIs • Data Visualization
+### ▣ Business Intelligence
 
-**▣ Data Analysis**
-SQL • Data Exploration • Data Modeling • Business Analysis
+**Power BI • DAX • Dashboards • KPIs • Data Visualization**
 
-**▣ Data Governance**
-Data Quality • Metadata • Data Management • Governance Frameworks
+### ▣ Data Analysis
 
-**▣ Information Management**
-Records Management • Information Organization • Information Governance
+**SQL • Data Exploration • Data Modeling • Business Analysis**
+
+### ▣ Data Governance
+
+**Data Quality • Metadata • Data Management • Governance Frameworks**
+
+### ▣ Information Management
+
+**Records Management • Information Organization • Information Governance**
 
 ---
 
@@ -60,32 +64,39 @@ Records Management • Information Organization • Information Governance
 
 ---
 
+
 ## ▤ Projects
 
 My repositories contain practical projects involving:
 
-**▣ Business Intelligence**
+### ▣ Business Intelligence
+
 Dashboards, KPIs and analytical reports.
 
-**▣ Data Analysis**
+### ▣ Data Analysis
+
 SQL queries, data exploration and business insights.
 
-**▣ Information Management**
+### ▣ Information Management
+
 Organization, governance and management of information assets.
 
-**▣ Data Governance**
+### ▣ Data Governance
+
 Concepts related to data quality, metadata, ownership and governance.
 
-Each project focuses on transforming **data and information into structured, reliable and useful knowledge for organizations**.
+Each project focuses on transforming **Each project focuses on transforming data and information into structured, reliable and useful knowledge to support organizational decision-making**.
 
 ---
 
 ## ▥ Education
 
-**Postgraduate Studies — Data Analysis for Decision-Making**
+### **Postgraduate Studies — Data Analysis for Decision-Making**
+
 PUCPR
 
-**Bachelor's Degree — Archival Science**
+### **Bachelor's Degree — Archival Science**
+
 Universidade Federal do Espírito Santo — UFES
 
 ---
@@ -95,4 +106,3 @@ Universidade Federal do Espírito Santo — UFES
 ### ◈ DATA → INFORMATION → INSIGHT → DECISION
 
 </div>
-
